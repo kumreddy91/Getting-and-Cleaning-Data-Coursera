@@ -6,4 +6,6 @@
 In this project I merged training and testing data set and converted Number codes to corresponding labels and added column names
 Finally, I further modiefied the tidy data to get a mean/average reading for each subject and each activity.
 
-please go through "codebook.md" to know about codes used in data. [here](https://github.com/kumreddy91/Getting-and-Cleaning-Data-Coursera/blob/master/codebook.md)
+Final result is in "tidy.txt"
+
+Please go through "codebook.md" to know about codes used in data. [here](https://github.com/kumreddy91/Getting-and-Cleaning-Data-Coursera/blob/master/codebook.md)
