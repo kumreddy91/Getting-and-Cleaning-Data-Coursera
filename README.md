@@ -1,7 +1,7 @@
 
 <h1> Getting and Cleaning Data Project
 
-This project takes raw data from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and Cleanes to an understandable tidy data frame.  This data frame consists of setof activites and corresponding sensor readings. And subjective tests conducted for each set of activites.
+####This project takes raw data from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and Cleanes to an understandable tidy data frame.  This data frame consists of setof activites and corresponding sensor readings. And subjective tests conducted for each set of activites.
 
 
 Steps followed to create a tidy data:
