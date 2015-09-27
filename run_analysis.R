@@ -17,9 +17,9 @@ y_data <- rbind(y_train,y_test)
 subject_data <- rbind(subject_train,subject_test)
 
 #2.Extracts only the measurements on the mean and standard deviation for each measurement. 
-featuresWanted <- grep(".*mean.*|.*std.*", features[,2])
-x_data <- x_data[,featuresWanted]
-names(x_data) <- features[featuresWanted,2]
+featuresExtract <- grep(".*mean.*|.*std.*", features[,2])
+x_data <- x_data[,featuresExtract]
+names(x_data) <- features[featuresExtract,2]
 
 #3.according to link y_data numbers represents activity names, we should rename y_data
 #with corresponding name
